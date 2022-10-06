@@ -12,10 +12,10 @@
 ![image](https://github.com/qq542391099/XTest/blob/master/screenshot/2.png)
 
 ## 3、开始采集性能数据
-右上角实时显示当前性能数据，每秒刷新一次，浮窗可上下拖动来避免阻碍操作
+右上角实时显示当前性能数据，每秒刷新一次，浮窗可上下拖动来避免阻碍操作，点击浮窗右上角红点可结束测试
 ![image](https://github.com/qq542391099/XTest/blob/master/screenshot/3.png)
 
-## 4、点击浮窗右上角红点结束测试
+## 4、结束测试
 在手机sdcard目录下找到XTest目录，进入对应包名文件夹，可找到这次测试生成的性能数据.csv文件
 ![image](https://github.com/qq542391099/XTest/blob/master/screenshot/4.png)
 
