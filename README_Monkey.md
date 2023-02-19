@@ -1,11 +1,9 @@
-# XTest
-欢迎加入测试开发交流QQ群：817744801
-
-# 使用流程介绍
+# XTest-Monkey使用流程介绍
 ## 1、下载工具并启动
 前往： [工具下载链接](https://github.com/qq542391099/XTest/releases/tag/v1.0.0) ，下载工具，确保手机处于开发者USB调试模式，执行run启动
 
 出现如下浮窗，则代表启动成功。其中“**最小化**”可在平时不使用工具的时候可将该窗口最小化，而“**退出**”则直接退出工具，下次启动需重新从PC端启动。建议不使用工具的时候选择”**最小化**“，不直接“**退出**”
+
 ![image](https://github.com/qq542391099/XTest/blob/master/screenshot/Monkey/1.png)
 
 ## 2、选择Monkey→选择测试应用

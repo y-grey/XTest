@@ -1,7 +1,7 @@
 # XTest
 欢迎加入测试开发交流QQ群：817744801
 
-以下为性能使用介绍，[Monkey使用介绍点击这里](https://github.com/qq542391099/XTest/README_Monkey.md)
+以下为性能使用介绍，[Monkey使用介绍点击这里](https://github.com/qq542391099/XTest/blob/master/README_Monkey.md)
 
 # 使用流程介绍
 ## 1、下载工具并启动
