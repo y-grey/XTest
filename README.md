@@ -1,6 +1,8 @@
 # XTest
 欢迎加入测试开发交流QQ群：817744801
 
+以下为性能使用介绍，[Monkey使用介绍点击这里](https://github.com/qq542391099/XTest/README_Monkey.md)
+
 # 使用流程介绍
 ## 1、下载工具并启动
 前往： [工具下载链接](https://github.com/qq542391099/XTest/releases/tag/v1.0.0) ，下载工具，确保手机处于开发者USB调试模式，执行run启动
