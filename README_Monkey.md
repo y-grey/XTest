@@ -96,8 +96,7 @@ CRASH:2023-02-14 23:52:51 出现了一次相同crash
 CRASH:2023-02-15 07:19:07 出现了一次相同crash
 
 ## 9、ANR分析：
-ANR文件夹里保存了ANR的原因、CPU和内存占用情况。同时会导出bugreport，Android9.0及以下的版本存储在anr_bugreport.txt里，Android9.0以上则保存在anr_bugreport.zip里（解压后的FS/data/anr目录下）。  
-通过anr_bugreport可以知道当前应用线程的执行堆栈，从而更好的定位问题。
+ANR文件夹里保存了ANR的原因、CPU和内存占用情况。同时会导出bugreport，Android9.0及以下的版本存储在anr_bugreport.txt里，Android9.0以上则保存在anr_bugreport.zip里（解压后的FS/data/anr目录下）。通过anr_bugreport可以知道当前应用线程的执行堆栈，从而更好的定位问题。
 
 
 
