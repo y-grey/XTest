@@ -17,18 +17,20 @@ Activity黑名单：Monkey遍历过程中会屏蔽这些Activity的启动
 Activity白名单：Monkey遍历过程中只允许这些Activity的启动
 选择配置黑/白名单Activity后，弹出当前应用的所有Activity，选择需要配置的Activity即可。
 如果不知道页面对应Activity名可以先进入第5步配置黑名单控件，进入希望配置的页面，再点击显示Activity。
+
 ![image](https://github.com/qq542391099/XTest/blob/master/screenshot/Monkey/4.png)
 
 ## 5、黑名单控件配置：
 点击配置页面的选择后进入录制模式，录制模式下可录制你点击的控件，录制的控件实时显示在浮窗列表里，只需要选择列表里控件，完成后会添加选择的控件到黑名单控件里。  
 另外，第四步里如果需要配置Activity名单，但不知道页面对应Activity名，则可以进入到希望配置的页面，再点击显示Act，则会把当前Activity显示出来。
+
 ![image](https://github.com/qq542391099/XTest/blob/master/screenshot/Monkey/5.png)
 
 ## 6、最后回来配置页面，点击确定则直接开始Monkey遍历测试，手动息屏或者电量小于5%的时候自动退出遍历。
 ![image](https://github.com/qq542391099/XTest/blob/master/screenshot/Monkey/6.png)
 
-## 7、当出现crash或者anr会自动保存堆栈，截图等异常信息到指定路径下（/sdcard/XTest/'应用包名'/Monkey/"测试开始时间"/ ），保存完成后会继续执行Monkey遍历。
-当停止后也会保存Activity的覆盖率信息到这个目录下。
+## 7、当出现crash或者anr会自动保存堆栈，截图等异常信息到指定路径下（/sdcard/XTest/'应用包名'/Monkey/"测试开始时间"/ ），保存完成后会继续执行Monkey遍历。当停止后也会保存Activity的覆盖率信息到这个目录下。
+
 ![image](https://github.com/qq542391099/XTest/blob/master/screenshot/Monkey/7.png)
 
 ## 8、crash分析：
