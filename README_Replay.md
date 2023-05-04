@@ -9,7 +9,7 @@
 
 ## 回放并采集性能
 
-![image](https://github.com/y-grey/XTest/blob/master/screenshot/Replay/replay-perf.png)
+![image](https://github.com/y-grey/XTest/blob/master/screenshot/Replay/replay-perf.gif)
 
 # XTest-Replay使用流程介绍
 ## 1、下载工具并启动
