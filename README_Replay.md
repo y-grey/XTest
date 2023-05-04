@@ -9,6 +9,7 @@
 ## 2、选择 录制回放→选择 测试应用→进入到录制回放主页面
 - 该页展示了录制和任务的入口及用例列表
 - 其中自动创建的”弹窗点掉用例“是用于配置回放过程自动点掉弹窗的步骤，可以根据自己业务的特点添加相应的步骤
+
 ![image](https://github.com/y-grey/XTest/blob/master/screenshot/Replay/2.png)
 
 ## 3、点击录制进入到录制模式，右上角显示录制浮窗，包含”完成，按键，校验，截图，上下箭头“
@@ -18,10 +19,12 @@
 - 需要图像识别，则选择截图，支持截图点击和截图校验
 - ”上下箭头“区域为可上下拖动浮窗的区域
 - 点击”完成“，则结束录制并回到录制回放主页面并生成一条用例
+
 ![image](https://github.com/y-grey/XTest/blob/master/screenshot/Replay/3.png)
 
 ## 4、点击用例则进入到用例的详情页：
 - 该页展示了用例每一步的步骤详情和回放结果
+
 ![image](https://github.com/y-grey/XTest/blob/master/screenshot/Replay/4.png)
 
 ## 5、点击步骤可对步骤进行编辑：
@@ -34,6 +37,7 @@
 - 下移：步骤下移一位
 - 插入录制步骤：启动录制模式开始录制，录制好的步骤插入到当前步骤之后
 - 插入子用例：设置步骤的子用例，回放执行到有子用例的步骤，则会先执行子用例(适合场景：多个用例有相同连续步骤，可以将这些步骤抽成子用例)
+
 ![image](https://github.com/y-grey/XTest/blob/master/screenshot/Replay/5.png)
 
 ## 6、从录制回放主页面点击任务进去到任务页面：
@@ -41,6 +45,7 @@
 - 可设置多种不同的触发方式”手动，按键，定时“等
 - 任务详情里可调整用例的执行顺序
 - 从任务的菜单进去可看到执行历史、任务执行结果，用例执行结果
+
 ![image](https://github.com/y-grey/XTest/blob/master/screenshot/Replay/6.png)
 
 
