@@ -9,14 +9,15 @@
 ## 2、选择Monkey→选择测试应用
 ![image](https://github.com/y-grey/XTest/blob/master/screenshot/Monkey/2.png)
 
-## 3、进入到Monkey配置页面，可配置黑/白名单Activity，和黑名单控件。
+## 3、进入到Monkey配置页面，可配置是否低电量退出，黑/白名单Activity，目标页用例，和黑名单控件。
 ![image](https://github.com/y-grey/XTest/blob/master/screenshot/Monkey/3.png)
 
-## 4、黑/白名单Activity配置：
+## 4、黑/白名单Activity配置，目标页用例：
 - Activity黑名单：Monkey遍历过程中会屏蔽这些Activity的启动
 - Activity白名单：Monkey遍历过程中只允许这些Activity的启动
 - 选择配置黑/白名单Activity后，弹出当前应用的所有Activity，选择需要配置的Activity即可。
 - 如果不知道页面对应Activity名可以先进入第5步配置黑名单控件，进入希望配置的页面，再点击显示Activity。
+- 设置目标页用例后可直达目标页做Monkey遍历，需要先在录制回放模块中录制目标页用例
 
 ![image](https://github.com/y-grey/XTest/blob/master/screenshot/Monkey/4.png)
 
