@@ -1,3 +1,16 @@
+# XTest-Replay演示
+## 录制
+
+![image](https://github.com/y-grey/XTest/blob/master/screenshot/Replay/record.gif)
+
+## 回放
+
+![image](https://github.com/y-grey/XTest/blob/master/screenshot/Replay/replay.gif)
+
+## 回放并采集性能
+
+![image](https://github.com/y-grey/XTest/blob/master/screenshot/Replay/replay-perf.png)
+
 # XTest-Replay使用流程介绍
 ## 1、下载工具并启动
 前往： [工具下载链接](https://github.com/y-grey/XTest/releases/tag/v1.0.0) ，下载工具，确保手机处于开发者USB调试模式，执行run启动
