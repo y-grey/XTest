@@ -1,12 +1,12 @@
 # XTest-Replay
-### 便捷的UI录制回放工具，一键实现性能自动化，支持日常任务的回归。
+### 便捷的UI录制回放工具，一键实现性能自动化，支持日常定时任务的回归。
 
 # XTest-Replay演示
-### 录制，自动识别常规动作，并采集控件属性生成步骤，同时支持按键和图像识别等
+**录制，自动识别常规动作，并采集控件属性生成步骤，同时支持按键和图像识别等**
 
 ![image](https://github.com/y-grey/XTest/blob/master/screenshot/Replay/record.gif)
 
-### 回放，支持自动点掉弹窗，单步回放，xpath模糊匹配，回放视频录制，回放监控crash和anr等，回放用例的同时采集性能，**轻松实现性能自动化**
+**回放，支持自动点掉弹窗，xpath模糊匹配，回放视频录制，监控crash和anr等，回放用例的同时采集性能，轻松实现性能自动化**
 
 ![image](https://github.com/y-grey/XTest/blob/master/screenshot/Replay/replay.gif)
 
